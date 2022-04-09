@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leonardo.fukuje@gmail.com
+	name = leonardo fukuje
